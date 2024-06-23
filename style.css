@@ -39,3 +39,10 @@ body {
     color: white;
     cursor: pointer;
 }
+
+footer {
+    font-family: "Noto Sans", sans-serif;
+    color: white;
+    margin-top: 54%;
+    text-align: center;
+}
